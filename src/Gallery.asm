@@ -371,7 +371,7 @@ scope Gallery {
     dh {MIDI.id.THE_ALOOF_SOLDIER}
 
     bgm_ebi:
-    dh 1                                   // number of BGM
+    dh 2                                   // number of BGM
     dh {MIDI.id.KAI_HIGHWAY}
     dh {MIDI.id.TRAVELING}
 
