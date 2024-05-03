@@ -129,7 +129,6 @@ scope Gallery {
     dh {MIDI.id.PAPER_MARIO_BATTLE}
     dh {MIDI.id.GHOSTGULPING}
 
-
     bgm_luigi:
     dh 13                                    // number of BGM
     dh BGM.stage.MUSHROOM_KINGDOM
@@ -167,7 +166,7 @@ scope Gallery {
     dh {MIDI.id.TALENTSTUDIO}
 
     bgm_dk:
-    dh 12                                    // number of BGM
+    dh 12                                   // number of BGM
     dh BGM.stage.CONGO_JUNGLE
     dh {MIDI.id.DKCTITLE}
     dh {MIDI.id.DK_JR_STAGE}
@@ -220,7 +219,7 @@ scope Gallery {
     dh {MIDI.id.VSRIDLEY}
 
     bgm_yoshi:
-    dh 7                                    // number of BGM
+    dh 7                                   // number of BGM
     dh BGM.stage.YOSHIS_ISLAND
     dh {MIDI.id.FLOWER_GARDEN}
     dh {MIDI.id.OBSTACLE}
@@ -341,7 +340,7 @@ scope Gallery {
     dh {MIDI.id.HYRULE_TEMPLE}
 
     bgm_sonic:
-    dh 14                                   // number of BGM
+    dh 14                                  // number of BGM
     dh {MIDI.id.GREEN_HILL_ZONE}
     dh {MIDI.id.EMERALDHILL}
     dh {MIDI.id.CHEMICAL_PLANT}
@@ -376,7 +375,7 @@ scope Gallery {
     dh {MIDI.id.TRAVELING}
 
     bgm_banjo:
-    dh 10                                   // number of BGM
+    dh 10                                  // number of BGM
     dh {MIDI.id.BANJO_MAIN}
     dh {MIDI.id.OLDSPIRAL_MOUNTAIN}
     dh {MIDI.id.SPIRAL_MOUNTAIN}
@@ -389,7 +388,7 @@ scope Gallery {
     dh {MIDI.id.DKR_BOSS}
 
     bgm_remix:
-    dh 11                                   // number of BGM
+    dh 11                                  // number of BGM
     dh BGM.menu.CREDITS
     dh BGM.stage.META_CRYSTAL
     dh BGM.stage.FINAL_DESTINATION
