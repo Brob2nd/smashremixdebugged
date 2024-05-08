@@ -715,7 +715,7 @@ scope MIDI {
     insert_midi(SEAFORT, OS.TRUE, OS.TRUE, "Sea Fort", b3313)    
     insert_midi(PARALLELLOBBY, OS.TRUE, OS.TRUE, "Pararell Lobby", b3313)
     insert_midi(TOADSTOOLROOM, OS.TRUE, OS.TRUE, "Toadstool's Room", b3313)
-    insert_midi(WETTOWN, OS.TRUE, OS.TRUE, "Wet Town", b3313)
+    insert_midi(WETTOWN, OS.TRUE, OS.TRUE, "Wet Dry Paradise/Wet Town", b3313)
     insert_extra_midi(OLDFALCO_VICTORY)
 
     pushvar origin, base
