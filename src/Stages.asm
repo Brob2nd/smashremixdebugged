@@ -3016,8 +3016,8 @@ scope Stages {
     db id.BATTLEFIELD_DL                    // 35
     db id.RANDOM                            // 36
     // Page 4 - Additional Viable Stages
-    db id.COOLCOOL_REMIX                    // 37
-    db id.CONGO_JUNGLE                      // 38
+    db id.NORFAIR                           // 37       <-- Hazards OFF
+    db id.CONGO_JUNGLE                      // 38       <-- Hazards OFF
     db id.TOH                               // 39
     db id.RAINBOWROAD                       // 3A       <-- Movement OFF
     db id.BOWSERB                           // 3B       <-- Hazards OFF
@@ -3026,7 +3026,7 @@ scope Stages {
     db id.MMADNESS                          // 3E       <-- Hazards OFF
     db id.DRAGONKING                        // 3F
     db id.KITCHEN                           // 40       <-- Movement ON
-    db id.NORFAIR                           // 41       <-- Hazards OFF
+    db id.COOLCOOL_REMIX                    // 41
     db id.META_CRYSTAL                      // 42
     db id.CORNERIACITY                      // 43       <-- Hazards OFF
     db id.TALTAL_REMIX                      // 44       <-- Hazards OFF
@@ -3040,13 +3040,13 @@ scope Stages {
     db id.HCASTLE_O                         // 4B       <-- Hazards OFF
     db id.ZEBES_O                           // 4C       <-- Hazards OFF
     db id.SMBO                              // 4D       <-- Hazards OFF
-    db id.COOLCOOL_DL                       // 4E
+    db id.HOW_TO_PLAY                       // 54/
     db id.YOSHI_ISLAND_O                    // 4F       <-- Hazards OFF
     db id.DREAM_LAND_O                      // 50       <-- Hazards OFF
     db id.SECTOR_Z_O                        // 51       <-- Hazards OFF
     db id.SAFFRON_O                         // 52       <-- Movement OFF
-    db id.NORFAIR_REMIX                     // 53       <-- Hazards OFF
-    db id.HOW_TO_PLAY                       // 54
+    db id.COOLCOOL_DL                       // 53
+    db id.RANDOM                            // 54
     db id.RANDOM                            // 55
     db id.RANDOM                            // 56
     db id.RANDOM                            // 57
