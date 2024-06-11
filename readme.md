@@ -3,7 +3,7 @@
 
 Smash Remix Debugged is a mod for the Super Smash Bros. 64 mod, Smash Remix, this mod's purpose is to work as a template for future Smash Remix mods, adding things like inaccessible features now being accessible, such as Sandbag for all game modes, Home-Run Contest as a normal stage, or certain inaccessible songs (such as the Game Boy Land ones, All-star Rest Area, SMB2 Boss or some Menu music) now being able to play in all stages.
 
-It also adds some extra content, such as the Tap Jump option, New Songs, More instruments being available for songs, More Stages for Characters for Remix 1P Mode and All-stars, More songs for some stages, 6 Stage Pages and 5 Tournament Stage Pages with a list of viable stages for Tourney, and more.
+It also adds some extra content, such as the Tap Jump option, New Songs, More instruments being available for songs, More Stages for Remix 1P Mode and All-stars, More songs for some stages, 6 Stage Pages and 5 Tournament Stage Pages with a list of viable stages for Tourney, and more.
 
 # FAQ/Q&A
 
@@ -17,11 +17,15 @@ A2: No! the mod has all content already available on Vanilla Smash Remix!
 
 Q3: Does the mod add new characters, stages, items, songs, or game modes?
 
-A3: Technically, no, the only "new" character and stage added is Sandbag (Boss character for Samus) and Home-run Contest respectively, it doesn't add any new item or game mode, however, it does add new songs! 17 from those new songs are songs that previously at least once were in a Smash Remix version, but they were removed, 4 of them are straight up scrapped songs that never appeared in any Smash Remix version, meaning they never saw the light of day, 17 of them are entirely new songs made for the mod, 46 of them are old versions of already existing songs that are still in Smash Remix to this day, 6 of them are even older versions of already existing songs, and 9 of them are Beta versions, meaning they are versions of songs that were exclusive to play testing and were later improved in the future until the Smash Remix version these songs were came out, giving a total of 99 new songs (only 37 if you only count the new songs and not the Old, Older or Beta songs)!
+A3: Technically, no, the only "new" character and stage added is Sandbag (Boss character for Samus) and Home-run Contest respectively, it doesn't add any new item or game mode, however, it does add new songs! 17 from those new songs are songs that previously at least once were in a Smash Remix version, but they were removed, 6 of them are straight up scrapped songs that never appeared in any Smash Remix version, meaning they never saw the light of day, 28 of them are entirely new songs made for the mod, 46 of them are old versions of already existing songs that are still in Smash Remix to this day, 6 of them are even older versions of already existing songs, and 9 of them are Beta versions, meaning they are versions of songs that were exclusive to play testing and were later improved in the future until the Smash Remix version these songs were came out, giving a total of 112 new songs (only 51 if you only count the new songs and not the Old, Older or Beta songs)!
 
-Q4: Can i use this mod for my tournament?
+Q4: What does Lite Edition change?
 
-A4: Yes, you can! That's why there's an extended Tournament SSS in the mod! It's optional tho, meaning that if you want, you can still use vanilla Smash Remix for your tournaments!
+A4: It's the same as the normal version, except it removes the Old, Older and Beta versions of the songs.
+
+Q5: Can i use this mod for my tournament?
+
+A5: Yes, you can! That's why there's an extended Tournament SSS in the mod! It's optional tho, meaning that if you want, you can still use vanilla Smash Remix for your tournaments!
 
 # Modder's FAQ/Q&A
 
@@ -33,14 +37,14 @@ A1/A2: Yes, it does! The mod itself is based/build of the latest original.z64 fi
 
 Brobgonal Second: Leader of the project, programmer, musician/composer
 
-MetaSSB / Meta Nais: Co-leader of the project, programmer, musician/composer, helper/assistant with programming and composing songs for the mod.
+MetaSSB / Meta Nais: Co-leader of the project, programmer, musician/composer, helper/assistant with programming and composing songs for the mod, Special Thanks.
 
-NewoRGBY_255/ Newo Regevoide: musician/composer, helper/assistant with composing songs for the mod.
+NewoRGBY_255/ Newo Regevoide:  Instrument Design, Musician/Arranger, helper/assistant with composing songs for the mod, Special Thanks.
 - Special thanks to the last 2 mentioned for really helping me with Smash Remix Debugged.
 
 Halofactory: Creator of the Tap Jump option, programmer for Vanilla Smash Remix.
 
-coffee: Musician/Composer of the Donkey Kong Jr. Song and part of the Vanilla Smash Remix OST.
+coffee: Musician/Arranger of the Donkey Kong Jr. Song and part of the Vanilla Smash Remix OST.
 
 B3313 Team and Newsupkaizo55: Creators of B3313, and musicians/composers of the 16 entirely new songs added for the mod
 
